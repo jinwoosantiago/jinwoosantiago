@@ -40,11 +40,15 @@ Hi there! I'm **jinwoo.santiago.dev** 👋
 
 
 ## 🛢️ Databases  
-
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
+
+
+
+## 🚀 Headless CMS  
+![Payload CMS](https://img.shields.io/badge/-Payload%20CMS-000000?style=flat&logo=payloadcms&logoColor=white)  
 
 
 ---
